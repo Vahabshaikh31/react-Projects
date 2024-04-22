@@ -14,6 +14,7 @@ const Cards = ({ title, note, id, onDelete }) => {
         <h3 className='Notes'>{note}</h3>
         <div className='BtnDiv'>
           <button className='DeletBtn' onClick={handleDelete}>
+            
             <DeleteForeverRoundedIcon />
           </button>
         </div>
