@@ -1,0 +1,105 @@
+
+.edulife,
+.edulife1 {
+  margin: 0;
+  position: absolute;
+  letter-spacing: 0.02em;
+  font-family: inherit;
+}
+
+.edulife {
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  font-weight: 800;
+  color: #afc6eb;
+}
+
+.edulife1 {
+  top: 122px;
+  left: 70px;
+  font-size: 120px;
+  font-weight: 600;
+}
+
+.edulife-helps-students,
+.new-way-to {
+  position: absolute;
+  left: 81px;
+  letter-spacing: 0.02em;
+}
+
+.new-way-to {
+  margin: 0;
+  top: 238px;
+  font-size: 60px;
+  font-weight: 500;
+  font-family: inherit;
+}
+
+.edulife-helps-students {
+  top: 320px;
+ font-size: x-large;
+  line-height: 148.4%;
+ color: black;
+  text-align: left;
+  display: inline-block;
+  width: 696px;
+  font-weight: 100;
+  height: 51px;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.her-text {
+  width: 777px;
+  height: 371px;
+}
+
+.her-text,
+.join-button1,
+.learn-more3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.learn-more3 {
+    top: 13px;
+    left: 262px;
+    text-decoration: underline;
+    letter-spacing: 0.02em;
+    line-height: 148.4%;
+    font-weight: 600;
+    color: rgb(173,173, 173,1);
+}
+
+.action-buttons {
+  position: absolute;
+  top: 439px;
+  left: 81px;
+  width: 384px;
+  height: 55px;
+  text-align: left;
+  font-size: x-large;
+  color: darkslategrey;
+}
+
+.homepage-1-icon {
+  position: absolute;
+  top: 22px;
+  left: 822px;
+  width: 515px;
+  height: 549px;
+  object-fit: cover;
+}
+
+.hero {
+  position: absolute;
+  top: 140px;
+  left: 23px;
+  width: 133px;
+  height: 571px;
+  text-align: center;
+  font-size: 160px;
+}
+

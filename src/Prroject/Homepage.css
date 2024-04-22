@@ -1,0 +1,15 @@
+
+.homepage {
+    position: relative;
+    overflow-y: hidden;
+    
+    background-color:whitesmoke;
+    width: 100%;
+    height: 4181px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+    font-family: var(--font-dm-sans);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }

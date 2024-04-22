@@ -1,0 +1,157 @@
+.page {
+    width: 100%;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+    animation: none;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.page .image {
+ margin-top: 30px;
+ margin-left: 150px;
+ background-image: url("BACK1.jpg");
+    width: 100%;
+    height: 900px;
+    object-fit: cover;
+    background-size: 1200px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.page .image .alig{
+    margin-left: 650px;
+    margin-top:40px;
+    width: 700px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.create{
+    margin-left: 50px;
+    font-family: Literata;
+font-size: 15px;
+font-style: normal;
+line-height: normal;
+}
+.create .edu{
+    display: inline;
+    font-family: Literata;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+.back{
+ font-family: Literata;
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+.welcome{
+    position: relative;
+    margin-left: 50px;
+font-family: Literata;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.email{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-family: Literata;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.emailIn{
+    margin-top: 5px;
+    width: 460px;
+height: 48px;
+    padding-left: 19px;
+    margin-left: 50px;
+    border-color: #8399b4;
+    border:1px solid #8399b4;
+    border-radius: 24px ;
+    outline: none;
+    background-color:rgb(194,210,215);
+}
+.pass{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: Literata;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.passIn{
+    margin-top: 5px;
+    width: 460px;
+    height: 48px;
+    padding-left: 19px;
+    margin-left: 50px;
+    border:1px solid #8399b4;
+    outline: none;
+    border-color: #8399b4;
+    border-radius: 24px;
+    background: rgb(194,210,215);
+} 
+.fogto{
+    font-family: Literata;
+font-size: 15px;
+margin-top: 15px;
+margin-left: 350px;
+font-style: normal;
+font-size: 15px;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+.login {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 460px;
+    height: 48px;
+border-radius: 24px;
+color: white;
+background: #fd661f;
+border-color:transparent;
+outline: none;
+}
+.google{
+
+    margin-left: 50px;
+    margin-top: 40px;
+    width: 460px;
+    height: 48px;
+border-radius: 24px;
+color: white;
+background: #76A1D4;
+font-family: Literata;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-color:transparent;
+outline: none;
+}
+.facebook{
+    margin-top: 20px;
+    margin-left: 50px;
+width: 460px;
+    height: 48px;
+border-radius: 24px;
+color: white;
+background:#76A1D4;
+font-family: Literata;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border-color:transparent;
+outline: none;
+} 
